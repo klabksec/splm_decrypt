@@ -1,2 +1,2 @@
 # splm_decrypt
-Set of SPLM decrypter code
+You like AGENTX? Here is a set of SPLM/AGENTX decrypter code examples
