@@ -1,2 +1,2 @@
 # splm_decrypt
-You like AGENTX? Here is a set of SPLM/AGENTX decrypter code examples
+You like Sofacy/APT28/Fancy Bear AGENTX? Here is a set of Sofacy/APT28 SPLM/AGENTX decrypter code examples
